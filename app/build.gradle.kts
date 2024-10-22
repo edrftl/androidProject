@@ -44,4 +44,13 @@ dependencies {
 
     implementation(libs.glide)
     annotationProcessor(libs.compiler)
+
+
+    // https://mvnrepository.com/artifact/com.squareup.retrofit2/retrofit
+    implementation(libs.retrofit)
+    // https://mvnrepository.com/artifact/com.squareup.retrofit2/converter-gson
+    implementation(libs.converter.gson)
+// https://mvnrepository.com/artifact/com.squareup.okhttp3/logging-interceptor
+    implementation(libs.logging.interceptor)
+
 }

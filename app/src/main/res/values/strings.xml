@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">FirstProject</string>
     <string name="Category">Category</string>
+    <string name="main_activity">Main</string>
+    <string name="category_activity">Categories</string>
+    <string name="category_create_activity">Create Category</string>
 </resources>
